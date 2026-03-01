@@ -1,0 +1,17 @@
+SĀKT
+
+Paņem 1 maizes šķēli
+
+JA maize nav grauzdēta
+Grauzdē maizi
+BEIGAS_JA
+
+JA gribi sviestu
+Uzsmērē sviestu
+BEIGAS_JA
+
+Uzliec piedevas
+
+Pasniedz sviestmaizi
+
+BEIGAS 

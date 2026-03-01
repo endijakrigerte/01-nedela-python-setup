@@ -1,0 +1,1 @@
+Esmu sapratusi, kas ir Python un Github. Sākumā bija grūti ar visām komandām, bet beigās jau palika vieglāk saprast. Šobrīd es māku izveidot Python failu un to palaist.
